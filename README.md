@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Bensaltana</h1>
-<h3 align="center">A Junior Flutter Developer from Morocco</h3>
+<h3 align="center">Flutter Developer from Morocco</h3>
 
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" align="right" style="max-width: 100%;">
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/bensaltanahassan](github.com/bensaltanahassan)
 
-- 📫 How to reach me **Bensaltana10@gmail.com**
+- 📫 How to reach me **Bensaltanahassan@gmail.com**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
 

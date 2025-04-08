@@ -11,11 +11,7 @@
 
 
 
-- 🔭 I’m currently Studying in **ENSA Safi**
-
-- 🌱 I’m currently learning **Flutter Development | Web Development**
-
-- 👯 I’m looking to collaborate on **Android&iOS&Web Development**
+- 🌱 I’m currently **Flutter Developer at Adria Business & Technology**
 
 - 👨‍💻 All of my projects are available at [github.com/bensaltanahassan](github.com/bensaltanahassan)
 
